@@ -389,3 +389,5 @@
 -[@eric12s](https://github.com/eric12s)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
+
+- [@vladbstr](https://github.com/vladbstr)
